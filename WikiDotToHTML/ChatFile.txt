@@ -1,0 +1,397 @@
+﻿++ Type 
+Main Story
+
+++ Date 
+9/1/2012
+
+++ Main Locations 
+* Henderson Warehouse
+
+DamianStark:	##800000| 	~Tackles-a-C~ ## 
+Kai_Tukov:	##110481| 	Tell them to get a tigher pair of undies to keep their 5 holes from hurting that bad. ## 
+YaraSherred:	##666666| 	Yeeep! ~sack full of weeds goes flying... Some tomatoes squish~ ## 
+DamianStark:	##800000| 	~Throws in a little slashing and cross-checking for good measure~ ## 
+DamianStark:	##800000| 	~LOL@F~ ## 
+DamianStark:	##800000| 	It's the rolling downhill that they're not used to. They're starting to realize that they work for me, not the other way around. ## 
+Kai_Tukov:	##110481| 	Heh. ## 
+YaraSherred:	##666666| 	The light's taking its time to dawn, huh? ## 
+DamianStark:	##800000| 	Too much time. They're trying to dictate shit to me. Like I'm their secretary, or cruise director. ## 
+DamianStark:	##800000| 	I had to have the "I-Don't-Care" conversation yesterday. My assistant (!) said to me, "I don't really care." I told her if that was true, she could clock out and go home; I don't have room here for people who don't care. ## 
+DamianStark:	##800000| 	She shaped her shit up. ## 
+YaraSherred:	##666666| 	Sheesh. I thought people were being careful of their jobs in this economy. ## 
+DamianStark:	##800000| 	I've been too nice to them. For way. Too. Long. ## 
+Kai_Tukov:	##110481| 	~shakes head~ That's fucked up. If I told my boss that 'I didn't care' I'd expect to be walking out that day. ## 
+DamianStark:	##800000| 	I don't think she expects me to be the boss. She thinks it's an equal partnership. I'm not going to let her rape me on this. The butthurt goes the other direction. Sucks that I have to fight her on this, but it has to be done. ## 
+YaraSherred:	##666666| 	I know managing doesn't have to be adversarial, but it does sound like boundaries need reinforcing. ~sighsigh~ ## 
+DamianStark:	##800000| 	I haven't been in control, in their defense. I'm getting my grip on several things, but it's one at a time. I'm still new at this. ## 
+Kai_Tukov:	##110481| 	Well good luck, I wish I had some pointers, but I've never been good at long-term leadership. ## 
+Kai_Tukov:	##110481| 	Mind for tactics, not strategy. ## 
+YaraSherred:	##666666| 	Still, new or not, you're the guy in charge. ## 
+DamianStark:	##800000| 	It's honestly like running a Larp. Herding cats. ## 
+YaraSherred:	##666666| 	Heh. Do they bitch as much as LARPers? ## 
+DamianStark:	##800000| 	YES. ## 
+YaraSherred:	##666666| 	Ewww... Fire 'em all. ## 
+Kai_Tukov:	##110481| 	Oh LARPers. ## 
+Kai_Tukov:	##110481| 	Not that I can talk, I'm eyeballing this other larp. ## 
+Kai_Tukov:	##110481| 	We're, more accurately. I'm just salivating at the chance to play again, costume, figure out gear, character concept, that sorta. ## 
+DamianStark:	##800000| 	Heh. Most of them have more good points than bad. ## 
+YaraSherred:	##666666| 	Bah, fire them all, get new ones. Defective people. ## 
+Kai_Tukov:	##110481| 	Yesh, fire them all and burn their cars! Cackle madly as the firelight dances on your nekkid skin! ## 
+Kai_Tukov:	##110481| 	~wild eyed for a moment, then shakes it off~ Err, what was that? ## 
+YaraSherred:	##666666| 	You forgot saving some meaty bits to turn into pastrami. ## 
+Kai_Tukov:	##110481| 	Oooh, pastrami. ## 
+DamianStark:	##800000| 	... ## 
+DamianStark:	##800000| 	O.O ## 
+YaraSherred:	##666666| 	... Cookie? ## 
+Kai_Tukov:	##110481| 	Already ate them. Anyways, where were we? ## 
+DamianStark:	##800000| 	That's a good fucking question. ## 
+Kai_Tukov:	##110481| 	~checks teh wiki~ ## 
+YaraSherred:	##666666| 	Stuff died! That's where we were at. Heh. ## 
+Kai_Tukov:	##110481| 	Oh yes, Shit. ~reads~ oh shit. ## 
+DamianStark:	##800000| 	Oh, yeh. Bobby showed up with Giana, pounding shovelheads. ## 
+YaraSherred:	##666666| 	And saying that D had sicced 'em on them. ## 
+Kai_Tukov:	##110481| 	Preeeetty much. ## 
+DamianStark:	##800000| 	Yep. Cool. Picking up there, then. ## 
+DamianStark:	##800000| 	I'll Create a few spaces for cutting and pasting when we go IC. ## 
+DamianStark:	##800000| 	Ready? ## 
+Kai_Tukov:	##110481| 	Hajime ## 
+DamianStark:	##800000| 	. ## 
+DamianStark:	##800000| 	. ## 
+DamianStark:	##800000| 	. ## 
+DamianStark:	##800000| 	. ## 
+DamianStark:	##800000| 	A thunderous silence descends upon the warehouse yard, the wan, sickly, greenish light bolted to the concrete block of a building casting indistinct shadows. ## 
+DamianStark:	##800000| 	Giana turns to Bobby, who stares down at her with a brow furrowed in concern. "I am fine, you big, sweet man," she chuckles, though physically she does not look it. "Be a dear and canvas the..." she looks about the desolate lot, "neighborhood... for wandering eyes. Bring them to me." ## 
+YaraSherred:	##666666| 	~Yara glances back at the lately beset duo, and gives Kai a shrug, before heading to the three buildings that Gianna had flagged~ ## 
+DamianStark:	##800000| 	Bobby: "Sure, boss," he rumbles, and moves off at a limping trot. ## 
+DamianStark:	##800000| 	Bobby: He casts Yara and Kai a glance, his stony face set in a bemused expression, but sets to his task as fast as his wounds will allow him. ## 
+Kai_Tukov:	##110481| 	Tugging at his shirt, he rolls his shoulders, feeling that fire-bright pain of wounds that are left by kindred fangs and claws... "I'll be a moment." He grumbles and sprints back for his car to pop the trunk and dig through his duffle for his vest. ## 
+YaraSherred:	##666666| 	~she frowns a bit, but minds her own business as she investigates where the shovelheads came from, and where more might be...~ ## 
+DamianStark:	##800000| 	The building itself, with its outcropping of prefab office space is to the west, with open gravel lot to the east. Several boxcar sized storage containers are lined up into neat rows in the open lot to the East. The two other buildings in that direction are a couple of hundred feet or more off to the North. ## 
+YaraSherred:	##666666| 	~she looks around, trying to decide which is her best option, finally deciding on scouting northwards~ ## 
+Kai_Tukov:	##110481| 	There's the tugging of velcro as Kai hastily dons his basic concealed vest and then a hoodie over it, and he hustles back to Giana. "Can you get a hold of someone to suppress the police response, the Bobby's Casull just set off every gunshot sensor in a half mile of here." He says, pausing for a handful of seconds before doubling his pace to catch up to Yar ## 
+Kai_Tukov:	##110481| 	20:13 YaraSherred:	##666666| 	~she looks around, trying to decide which is her best option, finally deciding on scouting northwards~ ## 
+DamianStark:	##800000| 	Giana strolls to the outer door of the office in her ruined dress and thousand-dollar pumps, as though nothing was amiss. ## 
+Kai_Tukov:	##110481| 	(Changing my response, a little lost here.) ## 
+Kai_Tukov:	##110481| 	There's the tugging of velcro as Kai hastily dons his basic concealed vest and then a hoodie over it, and takes to near sprint under full veil of obfuscate until he can get to some cover some 20 feet back behind Yara. ## 
+YaraSherred:	##666666| 	~if I was kind of crazy, where would I be? she muses to herself as she hunts around~ ## 
+DamianStark:	##800000| 	The rows of containers are near-pitch-black. There is a marked lack of lighting in the lot itself, as though the owners don't want to know what is stored here. ## 
+DamianStark:	##800000| 	The other two buildings, except for the peeling paint of their labels- 8 and 9, respectively- are exactly alike in form and construction. ## 
+YaraSherred:	##666666| 	~she keeps her ears open, expecting to hear shouts, conversation, or perhaps the shriek of a bird...~ ## 
+DamianStark:	##800000| 	The same ill lighting over the giant roll-up door at the south end of each building glows tiredly. Eight's light flickers and buzzes slightly, as though ready to give up the ghost. ## 
+DamianStark:	##800000| 	Somewhere in the rows of containers, a sudden sharp 'ping' of a rock bouncing off plate metal sounds, and silence descends deliberately after. ## 
+Kai_Tukov:	##110481| 	Kai stops mid-footfall, and lowers himself, trying to discern in the containers where the sound came from... There's been better ideas. ## 
+YaraSherred:	##666666| 	~she freezes between buildings 8 and 9, and slowly turns around~ ## 
+DamianStark:	##800000| 	((Gleam is active, yes?)) ## 
+YaraSherred:	##666666| 	((Not for Yara.)) ## 
+DamianStark:	##800000| 	((Understood)) ## 
+Kai_Tukov:	##110481| 	((Kai has his up, since he is under obf)) ## 
+DamianStark:	##800000| 	KAI- There is movement down aisle two of five. The containers are stacked three units high, to a height of twenty five to thirty feet. The vision granted by your blood shows only movement, a vague impression of form and mass. ## 
+YaraSherred:	##666666| 	~hey, where the hell is Kai? Jeez... Oh well, quick look around here, and maybe go find him, too~ ## 
+DamianStark:	##800000| 	YARA: A slight sqeak of metal against metal further down the alley made by buildings eight and nine catches your attention. ## 
+DamianStark:	##800000| 	YARA: A definite clack of some sort of catch or latch clicking home. ## 
+Kai_Tukov:	##110481| 	Pulling out his Italian steel again, he notes the spot where the movement came from, but he scouts around for Yara again, hopeful that he can catch back up with her. ## 
+DamianStark:	##800000| 	The stars above are greedy with their light, giving none and playing voyeur to the scene below. ## 
+YaraSherred:	##666666| 	~oh, wonder what that is... She creeps closer�Kai may well be able to see her disappear between the buildings in the flicker of building 8's shabby bulb~ ## 
+DamianStark:	##800000| 	KAI: Yara seems to be looking around with a slight annoyance... or maybe the expression is concern. Ah, hell, it's hard to tell with her. ## 
+DamianStark:	##800000| 	...right before she slips between the buildings... ## 
+DamianStark:	##800000| 	((Kai's Wits score? Can't remember off the top of my head.)) ## 
+Kai_Tukov:	##110481| 	((3 surprisingly enough)) ## 
+DamianStark:	##800000| 	((Cool)) ## 
+DamianStark:	##800000| 	KAI: The movement between the containers is... wrong. Too fluid, too amorphous. Either enough somethings to have no discernible form in the dark, or one very wrong something.... ## 
+DamianStark:	##800000| 	YARA: A standard sized steel door opens out onto the alleyway probably forty feet from the opening between the building-faces. The utter lack of ground cover, be it concrete or gravel, gives the causeway a cloying dust smell, barren and lifeless. ## 
+Kai_Tukov:	##110481| 	Yeah, I think I know what that is, not my idea of fun. He starts off after Yara, to get to that cleft between the two building where she disappeared. ## 
+YaraSherred:	##666666| 	~Yara slips closer to the door, hazarding a glance upwards~ ## 
+DamianStark:	##800000| 	YARA: The door leads into building eight, on your left. ## 
+DamianStark:	##800000| 	YARA: Above, the stars seem to crowd into view, cold and distant spectators. The walls rise thirty feet to the eaves, where a steep roof climbs another ten or fifteen feet, then levels off. ## 
+DamianStark:	##800000| 	(Oops) , disappearing from view. ## 
+Kai_Tukov:	##110481| 	Pulling up drag, he hugs the wall some distance behind Yara, keeping his eye open for the damn walking Shadow. "What I'd give for a flashbang." he murmurs to himself, letting the obfuscate drop. ## 
+Kai_Tukov:	##110481| 	himself, (before) letting the obfuscate drop. ## 
+YaraSherred:	##666666| 	~a knife comes up, and she seems about to attack, before realising that, no, that's Kai... She snorts an angry breath at him~ ## 
+Kai_Tukov:	##110481| 	He shifts to his back foot, making a distasteful face at her. Then shakes his head, gesturing behind him before moving up to her. "Lasombra, I think, stalking around back there." He whispers to her. ## 
+DamianStark:	##800000| 	The shadows stretch strangely, wavering almost, at the mouth of the alley. ## 
+DamianStark:	##800000| 	As though illustrating the young Gangrel's point. ## 
+YaraSherred:	##666666| 	Something in there, maybe. ~she murmurs, gesturing towards the door with the pointy bit~ ## 
+DamianStark:	##800000| 	((Maybe...)) ## 
+Kai_Tukov:	##110481| 	Kai scans the area, glowing eyes wide, looking for some place they can use for some sort of tactical advantage. May need to retreat to a somewhat defensible position. ## 
+YaraSherred:	##666666| 	~she continues heading for the door while Kai thinks of tactics~ ## 
+DamianStark:	##800000| 	The shadows waver ominously in the mouth of the alley, but don't seem to be advancing... yet. The door stands in the wall, raised of the dusty ground by a couple of inches. The scent of yucca wafts across your noses for a second, faint enough to leave one wondering if it was actually there. ## 
+DamianStark:	##800000| 	The shipping containers fade into shadow beyond the pools of sickly light. ## 
+Kai_Tukov:	##110481| 	He sees Yara moving, and it's no time for a discussion, he follows, backpedaling, looking to the roofs occasionally as he searches for possible threats. ## 
+YaraSherred:	##666666| 	~she gives the door a quick touch, to see if it wobbles. She doesn't expect it, from that definite click earlier. She runs her fingers around the edge of the door, checking for wires~ ## 
+DamianStark:	##800000| 	As you reach the door, something seems to move on the roof slope, then pokes a long, serpentine head over the eave. It withdraws just as quickly. ## 
+DamianStark:	##800000| 	Other than a rime of dust, the door carries no other foreign objects. The knob is on the right hand side of the door. To open it would put it between the opening and Kai. ## 
+YaraSherred:	##666666| 	~she nods her head towards Kai�he's got to have done that entry-thing before, right?~ ## 
+DamianStark:	##800000| 	((Kai, you did remember to bring your lockpick gun to class today, didn't you?)) ## 
+Kai_Tukov:	##110481| 	Kai doesn't even catch Yara's look, leaning away from the wall, eyes frightfully wide red coals as he looks to the roof. One finger count off then points at the roof to Yara as he gets up out of his crouch. ## 
+DamianStark:	##800000| 	((Heh)) ## 
+YaraSherred:	##666666| 	~she blinks, and follows the direction of his finger. Well, that'll be fun to reach...~ ## 
+DamianStark:	##800000| 	There is a scrabbling, clawing sound from the sloped roof. ## 
+DamianStark:	##800000| 	It seems suddenly darker. ## 
+YaraSherred:	##666666| 	~... or maybe it'll come down. Balls~ ## 
+Kai_Tukov:	##110481| 	"Should have gotten the AR out." He curses under his breath, no longer at a bare whisper. They know they are here now. "Inside." Kai looks for the mechanism on the door, if there's a lock, there's a keyhole. ## 
+DamianStark:	##800000| 	The pools of dim greenish light at the mouth of the causeway are no longer visible... nor is the mouth of the alley. ## 
+DamianStark:	##800000| 	The key hole is a standard flat-faced, no-nonsense deadbolt, set under the plain aluminum door knob. ## 
+YaraSherred:	##666666| 	~well, let's try the easy way first... She tests the knob~ ## 
+DamianStark:	##800000| 	The knob turns with a small squeak. Yara can feel dust and grit grinding in the mechanism. ## 
+DamianStark:	##800000| 	The door opens easily enough. ## 
+DamianStark:	##800000| 	Meanwhile, the darkness flows down the causeway like molasses poured over a piece of toast, but running parallel to gravity. ## 
+YaraSherred:	##666666| 	~she blinks, having rather expected it to be locked, or explode~ ## 
+DamianStark:	##800000| 	((Perpendicular. Dammit) ## 
+DamianStark:	##800000| 	Light floods the alley, as though it were desperately trying to escape the concrete building. The buzz of industrial, halogen lighting can be heard. A rectangle of bright, garish light falls over the grey dust and pallid concrete of the opposite building. ## 
+DamianStark:	##800000| 	A hiss of protest sounds from the opposite end of the alley at the north end of the alley. Shadow retreats from the south end, pulling away from the light as though burned. ## 
+YaraSherred:	##666666| 	~she checks around the door before entering~ ## 
+DamianStark:	##800000| 	The interior, once Yara's eyes adjust to the bright light, seems to be some sort of break room, partitioned off from the rest of the warehouse by eight foot prefab walls. There is no ceiling to the walled-off room, only two-by-six joists evidencing a work in progress. ## 
+Kai_Tukov:	##110481| 	Kai does a shuffle step away from the light, but keep his eye on that retreating darkness. This will be something he'll have to keep in mind for later. ## 
+DamianStark:	##800000| 	A bank of vending machines lines the walls to the left, along with a refrigerator, sink, and microwave, with a row of cabinets reaching to what should be the ceiling. ## 
+DamianStark:	##800000| 	KAI: Hmmm. The flashbang might be a good idea after all. Shopping list. ## 
+YaraSherred:	##666666| 	~she looks around, holding the door open for Kai~ ## 
+DamianStark:	##800000| 	Three cheap, pressboard tables do a pretty good impression of quality props, but the plastic chairs surround them like a driveway full of beaters at a condo. ## 
+DamianStark:	##800000| 	A large plexiglass window looks out on some sort of shop, bulky and technical-looking equipment in formation amongst piles of steel plate and racks of metal bars. ## 
+Kai_Tukov:	##110481| 	Kai follows quickly after Yara, listen for any noise from the roof. "We may still have one live on the roof. ## 
+YaraSherred:	##666666| 	Okay, let's see if there's a catwalk up there. ## 
+DamianStark:	##800000| 	An overhead crane perches above the workfloor on its double tracks, stretching the length and most of the breadth of the long warehouse. ## 
+DamianStark:	##800000| 	There is a catwalk, in fact, on this side of the crane track, high up in the supports of the building. The gabled ends of the roof seem to have doors in them. ## 
+YaraSherred:	##666666| 	Awesome. ~she points it out to Kai~ ## 
+Kai_Tukov:	##110481| 	Looking over the gathered gear, Kai takes in the scene. The catwalk will do nicely. "Was hoping this was where Damian was at, but he's obviously not in this building, unless he set up these lights and bailed. ## 
+YaraSherred:	##666666| 	I heard the door _close_. ~she remarks, making her way to the ladder(?) up~ Could be something, still. ## 
+DamianStark:	##800000| 	A short search reveals the caged-in ladder leading up one of the support beams in the north end of the building. Sparks fly from a machine that seems to be operating a little off to the south. ## 
+Kai_Tukov:	##110481| 	"Good point" He agrees, following behind Yara, keeping an eye on the area behind them. "I'm going to need to make a 'go loud' kit, this is too deep to be rolling around with just my pee-shooter" ## 
+YaraSherred:	##666666| 	And what does one put in that sort of toolbag? ~she asks, moving quickly in a crouch~ ## 
+DamianStark:	##800000| 	A high pitched whine accompanies loud pops and sizzles. Some sort of mechanized cutting torch, perhaps? ## 
+Kai_Tukov:	##110481| 	Kai follows her, trying to keep his balance, weapon still in his hand. "Still figuring that one out, but a flash bang again along with my rifle." ## 
+YaraSherred:	##666666| 	You have fun with that. ~she mutters; so loud and so much maintenance, she'd rather not bother~ ## 
+DamianStark:	##800000| 	The concrete floor is surprisingly clean. A wide aisle bisecting the building leads to another garage door in the exact middle of the west wall. The crane sits at rest above, a sign reading "1 day(s) without a work related accident" ## 
+DamianStark:	##800000| 	hanging from its chassis. ## 
+Kai_Tukov:	##110481| 	Kai scrutinizes the spark shooting device, wondering what it could have been doing. ## 
+DamianStark:	##800000| 	It recedes into the distance as you head north, toward the catwalk access. ## 
+DamianStark:	##800000| 	Whoever they have sweeping the floors here is a prodigy... or is obsessive-compulsive. ## 
+YaraSherred:	##666666| 	~she takes another look around~ Wonder what it is they do here. ## 
+DamianStark:	##800000| 	Judging from the neat racks of gradient sizes of metal bars in twenty-foot lengths, and the collection of cutters, presses and other devices, structural steel distribution seems the answer. ## 
+YaraSherred:	##666666| 	It's... Very sharp in here. ~she murmurs over her shoulder to Kai, picking up her pace a little~ ## 
+Kai_Tukov:	##110481| 	"We need to get up on the roof, will let us see what's going on." ## 
+DamianStark:	##800000| 	((Pace? Slow walk? Jog? Slinking?)) ## 
+YaraSherred:	##666666| 	((A quick slink!)) ## 
+DamianStark:	##800000| 	((~Nods~ Fitting, for Yara.)) ## 
+Kai_Tukov:	##110481| 	((~snorts~)) ## 
+DamianStark:	##800000| 	The knife gleams brightly in Yara's hand as she quietly glides across the floor, down the wide aisle between the racks of metal rods and bars and the neat stacks of oily, four or five, by eight or ten foot, cold-rolled steel plates. ## 
+DamianStark:	##800000| 	The caged in ladder stretches above you to a height of twenty five feet or so. ## 
+YaraSherred:	##666666| 	~she heads up the ladder, with a care for her knife~ ## 
+DamianStark:	##800000| 	Reaching the foot of the ladder, the coppery odor of blood blends with the sewer stench of ruptured entrails. There are, visible beyond the back few racks, near a smaller, more standard-sized garage door in the west wall, several heaps of- what must be- bloodied flesh. ## 
+YaraSherred:	##666666| 	~she pauses, foot on the first rung~ Ugh.... ## 
+DamianStark:	##800000| 	Heading up the ladder, Yara can clearly see that the heaps of flesh used to be people. Several parts are recognizable, but no more than a few from the same heap. ## 
+DamianStark:	##800000| 	Ragged bits of navy blue cloth are strewn about the raw, red meat that lies spread over the otherwise pristine floor. ## 
+Kai_Tukov:	##110481| 	Kai wonders how he could have missed the scent of ruined people in here when he is suddenly shocked out of his visual sweep of the room by the piles of gore. "Holy fuck, the..." Words fail him. ## 
+DamianStark:	##800000| 	Next to the garage door is a egress door, in steel, like the one through which the intrepid pair of Gangrel entered. This one is open a crack. ## 
+YaraSherred:	##666666| 	~she looks at the door through the rungs~ Hey, check it. ~she points out to Kai~ ## 
+DamianStark:	##800000| 	The pitch of the whine of the distant machine changes slightly, and the preponderance of sparks lessens. The intensity of the electric blue glare kicks up a notch. ## 
+Kai_Tukov:	##110481| 	Snapping himself out of it, he follows Yara hand. "That way?" ## 
+DamianStark:	##800000| 	The door opens slowly. ## 
+YaraSherred:	##666666| 	Down! ~she hisses at Kai, sliding back down the ladder~ ## 
+DamianStark:	##800000| 	A figure slips in, shielding his eyes from the light. He crouches against the wall next to the door, hugging the side of a rack holding silvery, ten foot long metal bars. ## 
+Kai_Tukov:	##110481| 	Kai boot blocks and slides down the ladder braces like an oily drop of water down a long vine, almost as if he's practiced this motion and drops to the floor. He saw the man and things are starting to become clear. ## 
+YaraSherred:	##666666| 	~someone needs to start giving them some answers... This looks like a good place to start...~ ## 
+DamianStark:	##800000| 	The man is average in height and slight in build, with long features. He's pretty, in a supermodel sort of way. His eyes are squeezed shut, and he fumbles on the wall for a switch. ## 
+Kai_Tukov:	##110481| 	Kai motions to Yara that he's gonna split up and flank, wishing to circle to the man's right, hugging whatever concealment he can before he draws up the concealment that is the telltale of his Sabbat bloodline. ## 
+YaraSherred:	##666666| 	~she lets Kai be the surprise, and chooses to go for the direct approach. Dude can't see anyway...~ ## 
+DamianStark:	##800000| 	Kai simply fades from view, Yara's eyes simply going on strike and refusing to see him. The man hits the switches, and the lights immediately drop to a low, purplish lambence. ## 
+DamianStark:	##800000| 	He blinks several times as Yara approaches. ## 
+YaraSherred:	##666666| 	~when seen, she speeds up to a run, pointy bit first~ ## 
+Kai_Tukov:	##110481| 	Shrouded, Kai levels his weapon, aiming at his neck, ready to move as Yara sprints up on him. ## 
+DamianStark:	##800000| 	His eyes widen in surprise and his pupils narrow, elongating to slits... so pretty... they glow, shining like silver... ## 
+DamianStark:	##800000| 	So... mesmerizing... ## 
+YaraSherred:	##666666| 	~oooh... Ooooh.... Her sprint slows to a trot, then to a walk~ ## 
+DamianStark:	##800000| 	KAI: The fanger's eyes are weirder than Damian's. His face is pinched in concentration as his head sways this way and that, his neck seeming to have a couple more vertebrae than it should. The eyes glow. He licks his lips nervously, with a black, forked tongue, and smiles tentatively. ## 
+DamianStark:	##800000| 	"Good evening, ma'am," he says quietly. ## 
+DamianStark:	##800000| 	((Serpentis. Powering up Presence, just in case)) ## 
+YaraSherred:	##666666| 	~she doesn't speak, but just stands there...~ ## 
+DamianStark:	##800000| 	"Sorry," he says, with diction so perfect it stands out as much as a lisp, "My... guests... are messy. I wonder if you might be willing..." (Kai's action) ## 
+Kai_Tukov:	##110481| 	Kai angles in and lines up a shot that will put out both of his eyes, figuring this is some sort of Dominate power, it's hard to command a gaze without eyes. ## 
+YaraSherred:	##666666| 	~she stares, and stares... At least her mouth isn't gaping~ ## 
+DamianStark:	##800000| 	..."Head toward the front of the building. I believe you will be interested in the spectacle on the plasma cutter." He gestures toward the south end of the building, willing Yara to look. ## 
+DamianStark:	##800000| 	"And..." He points to the knife gingerly with his other hand. "Try not to perforate me with that." ## 
+YaraSherred:	##666666| 	((Presence kicking in there?)) ~she turns as bid, looking a little vacant~ ## 
+Kai_Tukov:	##110481| 	((Hmm presence would affect Kai as well wouldn't it? Or if it's not directed...")) ## 
+DamianStark:	##800000| 	His posture is tense, apparently waiting for some 'moment' to occur. ## 
+DamianStark:	##800000| 	(Awe, for now) He seems to deflate as she looks away from him, apparently relieved. Yara doesn't seem to remember where exactly he was. (Vanish) Kai, on the other hand, can plainly see him leaning against the wall, mopping at his face with a hand. He casts a rather normal-looking glare toward the front of the building. ## 
+YaraSherred:	##666666| 	~what a reasonable thing to ask! Why not head for the front of the buildling?~ ## 
+DamianStark:	##800000| 	((Presence merely gives him pause. Once he Obfuscated, though he dropped the presence and Serpentis like third period French.) ## 
+Kai_Tukov:	##110481| 	Kai changes his angle and kicks the door shut as he switches on the light. Gotta keep the freaking `sombra out of here. ## 
+DamianStark:	##800000| 	It is, after all, where you were going to get a look at from the catwalk in the first place. ## 
+YaraSherred:	##666666| 	~she blinks. Hey, waitaminnit...~ ## 
+DamianStark:	##800000| 	The young, good-looking man gives Kai's foot on the door and long-suffering sigh and shuts his eyes. The lights begin buzzing again, and begin to brighten. ## 
+DamianStark:	##800000| 	He is, as of right now, only visible to Kai. ## 
+Kai_Tukov:	##110481| 	Kai moves to stand between him and the light switch. "So, how about we play a little game, called you tell us everything." He begins, sing song falling into rougher tones as he waits on his toes, weapon up, aimed at the pretty boy. ## 
+YaraSherred:	##666666| 	~she spins, and initiates protocol Ventrue-alpha... Stare up, and to the left. Not that it helps much.~ ## 
+DamianStark:	##800000| 	"You, sir, are very good at Obfuscation," he says precisely. ## 
+DamianStark:	##800000| 	He glances at Yara, who is still nearby, and sighs, his shoulders slumping. The lights don't seem bright enough to hurt him... yet. ## 
+DamianStark:	##800000| 	"It's not even worth using Majesty," he mutters to himself. "Not worth it. She's going to kill us all." ## 
+YaraSherred:	##666666| 	... ~she stalks closer, but at least she keeps the knife down~ ((I'm assuming he's good and visible to all now.)) ## 
+DamianStark:	##800000| 	Yeah. He's given up opn the obfuscate, too. ## 
+Kai_Tukov:	##110481| 	"I don't want to die tonight anymore than you do, who is 'she' and where is Stark?" Kai demands, pulling the trigger and holding the hammer from falling with his left... If he goes slack, even in the slightest, the weapon (which is aimed at his brain-pan) will fire. The only way he can stop it from firing now is to pull the side back away from the firingpin ## 
+Kai_Tukov:	##110481| 	(pronoun craziness.. the weapon (which is aimed at the Settite's brain-pan) ) ## 
+DamianStark:	##800000| 	The fanger swallows visibly and squeezes his eyes shut. "The Consul, of course." He answers consicely, which is refreshing. "That's where I was sending Miss Sherred." He gestures blindly. ## 
+YaraSherred:	##666666| 	To the Consul? I'm not entirely sure if I'm grateful, but you could have done a lot worse. ~she admits, glancing over at Kai. She's not usually "good cop", but whatever...~ Look, we're here for D. Point us at him, you get going, and things are cool, right? ## 
+DamianStark:	##800000| 	"To Stark, of course, not the Consul." ## 
+DamianStark:	##800000| 	He points toward the lambent electric blue that he dubbed 'plasma cutter'. "You had probably best hurry, unless of course, you think it will be easier to retrieve ashes." ## 
+YaraSherred:	##666666| 	Kai, shoot him if you want! ~she makes with the running, but in the opposite direction this time~ ## 
+DamianStark:	##800000| 	"Please," he squeaks, "don't." ## 
+DamianStark:	##800000| 	((Silly, cowardly Serpent of the Light... ~shakes head~)) ## 
+Kai_Tukov:	##110481| 	Kai pulls the side and shifts the weapon away as the hammer falls, the hammer hitting the slide and not the firing pin. ## 
+DamianStark:	##800000| 	He remains perfectly still, his eyes squeezed shut against the brightening lights. ## 
+DamianStark:	##800000| 	Yara bolts down the aisle, past the racks of metal and a forklift (which has a person impaled on one of the forks), under the crane and down the row of equipment. ## 
+YaraSherred:	##666666| 	~sadly, unskilled in Kai's unearthly speed, she's at a disadvantage, but she's still quite swift. Plus, never running out of breath has its uses~ ## 
+Kai_Tukov:	##110481| 	Kai sprints after Yara, blushing as he cuts up to double speed, running hard towards the cutter. ## 
+DamianStark:	##800000| 	Kai passes her up about thirty feet from the cutter, even after the head start. Eat it, Usain Bolt! ## 
+Kai_Tukov:	##110481| 	The pistol by it's barrel and slide, he pumps for it the sparking cutter. This is has just been a mess. ## 
+DamianStark:	##800000| 	The rack of cutting torches, six in all, are cutting identical intricate designs in a two-inch thick plate of steel, paper doll style. The plate lays a bit crooked, so the cutters are slow, compensating for the uneven landscape. ## 
+YaraSherred:	##666666| 	~gah, never bet on a footrace against Kai. She doesn't let up though, and makes for the cutter with all speed~ ## 
+DamianStark:	##800000| 	Always too many damn cooks in the kitchen. ## 
+DamianStark:	##800000| 	The plate seems to be lying atop something. A moccassin-clad foot sticks out from under the plate at the end of the machine. ## 
+DamianStark:	##800000| 	A loud, metallic bang resounds through the warehouse. The large garage door on the South end shudders... and warps a little in the middle. ## 
+YaraSherred:	##666666| 	Switches, switches! ~she says to herself as she frantically looks for the big red button... There's always a big red button!~ ## 
+DamianStark:	##800000| 	On the aisle-side of the bank of cutters on their track is a platform with a computer control seemingly wrapped in protective, formed mylar. The panel also holds a pair of buttons, one green, and glowing cheerily (go, machine, go!) and a larger, red one. ## 
+Kai_Tukov:	##110481| 	Oh good, a foot, not a pile of ash. The speed fades after a few seconds, but the momentum from running at nearly fifty miles per hour strains at his preternatural agility and balance, as Kai struggles just to keep his footing as the speed slackens. ## 
+YaraSherred:	##666666| 	~she skids for the panel, eyes on the red-button prize~ ## 
+DamianStark:	##800000| 	Kai skids neatly past the control panel on the pristine, polished concrete, his arms windmilling. Damn physics. ## 
+DamianStark:	##800000| 	Slamming her hand on the giant red button, the machine responsively buzzes like a wrong answer on a quiz show and the torches sputter and pop as they stop suddenly. ## 
+Kai_Tukov:	##110481| 	Kai still heads for the cutter, he'll still need to get D free. ## 
+DamianStark:	##800000| 	The foot twitches. ## 
+YaraSherred:	##666666| 	~she blinks at the plate. Yeeeesh. That's gonna hurt no matter what...~ That's gonna be a bitch to move. ~she hazards a glance at the garage door~ And I don't think we have a lot of time. ## 
+Kai_Tukov:	##110481| 	He circles looking for something that can lever the plate off or a clamp that's holding it together or chains. ## 
+DamianStark:	##800000| 	Hanging near the end of the machine is a control box. The thick wire leads to a second crane. The chains end in some sort of clamps. ## 
+DamianStark:	##800000| 	A second buckling impact rocks the roll-up door. ## 
+YaraSherred:	##666666| 	What the hell... ~she tears her eyes away from the door, looking towards Kai for ideas~ ## 
+Kai_Tukov:	##110481| 	Kai snags the control. "I got an idea." He attempts to pull the plate up using the crane's controls and off and if need be, swing the assembly towards the door. ## 
+YaraSherred:	##666666| 	I'll grab his ankles whenever. ~she declares, rather optimistically~ ## 
+DamianStark:	##800000| 	((Sorry. Mibbit croaked.)) ## 
+DamianStark:	##800000| 	((Reposty?)) ## 
+DamianStark:	##800000| 	The lifting of the plate gives the impression that some odd physics are about to be at work, and visions of the plate swinging, and scraping D's body across the deck, grating him like cheese fill your thoughts. ## 
+YaraSherred:	##666666| 	((My last) I'll grab his ankles whenever. ~she declares, rather optimistically~ ## 
+YaraSherred:	##666666| 	((DIE SMILEY!)) ## 
+DamianStark:	##800000| 	((Bobby the Sledge flattens it then blasts a hole in it with his automag)) ## 
+Kai_Tukov:	##110481| 	"Shit!" Kai curses, moving closer, trying to figure out how he could torque this off without shredding his clan brother. ## 
+YaraSherred:	##666666| 	Think we can maybe lift it? ## 
+DamianStark:	##800000| 	Edging the crane away while lifting should be easy. Unfamiliarity with the damn controls (EIGHT buttons? Really?) make it a true challenge. The plate comes up enough to see D, twitching a bit, his entire body misshapen by lying upon what amounts to a series of 1/4 inch wide slats, spaced three inches apart. His head and shoulders are practically sliced. ## 
+DamianStark:	##800000| 	Like bread. ## 
+DamianStark:	##800000| 	Bang! The door shudders once more. Pieces clatter to the concrete. ## 
+DamianStark:	##800000| 	The door still stands, but its tracks are a mess. ## 
+YaraSherred:	##666666| 	Oh crap. ~she mutters, the first sign of fang the boys would have seen from her visible as her lip curls back~ This is gonna hurt. ~she goes to pull D from the side, to avoid grating the meat from his bones~ ## 
+DamianStark:	##800000| 	There is an indention in D's chest. something shoved through it... ## 
+Kai_Tukov:	##110481| 	"Tough mother..." Kai keeps his hands off the controls and just holds the control wire while getting a closer look. ## 
+DamianStark:	##800000| 	Yara gets a grip on Damian as gingerly as she can. It becomes obvious that she's going to have to pull him off the slats first; he's pressd over them like Pla-Dough in the Fun Factory. ## 
+Kai_Tukov:	##110481| 	((Post didn't go through, sorry)) ## 
+DamianStark:	##800000| 	((It's fine)) ## 
+YaraSherred:	##666666| 	~she casts a wary glance back at the door~ We got to lift, then slide. He's a fucking mess here. ## 
+DamianStark:	##800000| 	Kai recognizes the thing in D's chest. A distinctive pommel from the type of knife that... King... uses. ## 
+DamianStark:	##800000| 	There is a gurgle from D's Julienned form. "Fugg righ, cupcake..." ## 
+YaraSherred:	##666666| 	Look who's awake! ~she exclaims, with a bright smile that's too sharp for comfort~ ## 
+Kai_Tukov:	##110481| 	"Right..." Kai eyes hang heavy on the pommel. "On three... One, two..." ## 
+YaraSherred:	##666666| 	~she waits for three, and hoists~ ## 
+DamianStark:	##800000| 	Damian squelches off the grating and convulses. A howl of agony rips out of his chest, ## 
+DamianStark:	##800000| 	and his eyes go blank, then the hawkish orbs bleed to red. A snarl bubbles up from his ruined lungs and his form starts twisting in your arms. ## 
+DamianStark:	##800000| 	((French-fried frenzy, anyone?)) ## 
+DamianStark:	##800000| 	((Dammit.)) ## 
+YaraSherred:	##666666| 	~she lets go; who knows what's happening, really... She casts another wary look at the door, aking her eyes off of D for a moment~ ## 
+Kai_Tukov:	##110481| 	((Not exactly unexpected)) ## 
+DamianStark:	##800000| 	Darkness flows over the floor, like light under the bedroom door in a negative, from under the large, dented garage door. ## 
+YaraSherred:	##666666| 	Uh... Did anyone else just see that? ## 
+Kai_Tukov:	##110481| 	Kai ducks to peer under the plate, just wishing to do anything to free him. "Fuck, fuck! There has to be a way to get him out!" ## 
+DamianStark:	##800000| 	The metal squeals and rivets pop, scattering crazily over the floor, as the door gives way to the liquid shadow. ## 
+DamianStark:	##800000| 	The door erupts out of its moorings, thrown out of the warehouse like it was blown out of an airplane with a hull breach. ## 
+Kai_Tukov:	##110481| 	((Recind, didn't quite get 00:47. My bad)) ## 
+YaraSherred:	##666666| 	Crap.. ~she ducks reflexively~ Guys, we got to get out of here... ~D's frothing hasn't entirely registered~ ## 
+DamianStark:	##800000| 	Damian lies half on and off the machine, his body becoming whole... but something altogether different. ## 
+Kai_Tukov:	##110481| 	Dancing away from the plate, he eyes Damian warily. "D, D! You have to hold it together!" Kai shouts at him, backing away slightly. He registers the black, and hopes it's the Consul here, not one of the pack that's been causing this trouble. ## 
+DamianStark:	##800000| 	His form is still vaguely human, but with the head and legs of a wolf, like a werewolf straight out of The Howling. ## 
+YaraSherred:	##666666| 	Craaaaa... ~she backs away from the door, and from D...~ Crapcrapcrap. ## 
+DamianStark:	##800000| 	The back of a man may be seen at the now-wide-open garage door. He is well-dressed, and fairly bleeding shadows. The arms of darkness finish ripping the door off, and flatten someone else out there with it.l ## 
+DamianStark:	##800000| 	Wolfman D scrambles to his clawed feet, casting about for... something. His frenzied, battered mind doesn't seem to know which need is more pressing. ## 
+Kai_Tukov:	##110481| 	Coming up with a plan, Kai looks for a direction to flee away from the door, just need to get D to key on him, he can outrun him most likely. ## 
+DamianStark:	##800000| 	((Oh, please, pistol-whip him... *giggle*)) ## 
+DamianStark:	##800000| 	((For the record, D is calling me every name in the book right now)) ## 
+YaraSherred:	##666666| 	Shit. ~both she and Kai are way too obvious... She has much the same idea as Kai, and that's to run and hope he follows... But not too damned close!~ ## 
+DamianStark:	##800000| 	The Lasombra flows to one side, away from a hurtling, blur of fur and teeth. ## 
+Kai_Tukov:	##110481| 	((Did D just charge at the Lasombra, or is that a third party ball of fur and teeth?)) ## 
+DamianStark:	##800000| 	Damian locks eyes on the starved-looking black wolf that wheeled upon the Lasombra, and howls a challenge. (Third party.) ## 
+YaraSherred:	##666666| 	Nonononono... ~she mutters, casting about for something to chuck at D's head~ ## 
+DamianStark:	##800000| 	There are plenty of little scraps of slag from the recent cutting lying around now. ## 
+YaraSherred:	##666666| 	~she pitches one at Damian; last thing they need is him to bung himself up more in a fight~ ## 
+Kai_Tukov:	##110481| 	((Okay, as I figured, keep getting my posts cut off before I can by C posting. Heh.)) ## 
+DamianStark:	##800000| 	"Starr," the Lasombra intones in a voice that wouldn't need to be mic'd in anything short of an arena, "You are a fool. The Consul will have your pelt for a bath rug" ## 
+DamianStark:	##800000| 	The piece of slag hitting him across the nose shuts him up, but briefly. Now his red, glaring eyes are locked upon Yara. ## 
+Kai_Tukov:	##110481| 	Seems that fate, that fucking bitch, has made everyone go all in all at once. Kai, with Damian distracted, fires a shot past Damian's ear and starts for the side door, waiting to hear a roar before he drops into celerity... His dusky skin falling into a lighter, greenish pallor as he strains his reserves. ## 
+YaraSherred:	##666666| 	~shit, what was phase 2 of this plan? Oh yeah... She bolts, back the way that the Setite entered by, and that Kai is presumably heading for too~ ## 
+DamianStark:	##800000| 	The shot going by D's ear startles the frenzied gangrel's mouth into a wolfy O of surprise. He spins to go after Kai, but (willpower) the confusion heaped upon the beast by hunger, pain and fear serve to give Damian's will a foothold. He starts after the pair of retreating clanmates, not snarling the way one might suspect. ## 
+DamianStark:	##800000| 	(expect.) ## 
+DamianStark:	##800000| 	(not suspect) ## 
+DamianStark:	##800000| 	(D'oh) ## 
+YaraSherred:	##666666| 	~Kai quickly outstrips her, leaving Yara to try her best to keep ahead of the wolfy pursuer~ ## 
+DamianStark:	##800000| 	D's claws clatter over the floor, giving Yara a clear idea of where he is. A little closer than is strictly comfortable. ## 
+Kai_Tukov:	##110481| 	He doesn't take up to the superhuman sprint, not hearing Damian roar or the like, he chances a glance back as he pulls the door open. ## 
+DamianStark:	##800000| 	A dreadlocked black man, way down the aisle, buries a knife into the Lasombra... ## 
+YaraSherred:	##666666| 	~she doesn't risk looking back, but keeps her focus on getting the hell out, preferably with D in tow. Let the Sabbat settle things themselves!~ ## 
+DamianStark:	##800000| 	D, still in that funky werewolf form lopes in an odd, shifting gait, switching from two to four limbs and back again. ## 
+DamianStark:	##800000| 	He skids on the concrete floor like the family beagle on linoleum, almost pitching into a rack lining the far back wall.. ## 
+Kai_Tukov:	##110481| 	... Kai stops in his tracks on seeing TK. "You mother fucker..." ## 
+YaraSherred:	##666666| 	Door! ~she calls out to Kai, hoping that he's got a bit of a lead on her... Only to pass him by~ ## 
+DamianStark:	##800000| 	The Lasombra respond by grabbing King's tie and swings him into the concrete wall with it, sneering the whole while. ## 
+DamianStark:	##800000| 	"Fool! Disgrace," the Lasombra booms, like he was channeling John Rhys Davies and James Earl Jones at the same time. ## 
+Kai_Tukov:	##110481| 	The door is already open and Kai stands next to it. ## 
+DamianStark:	##800000| 	D scrambles toward the door. "Kai!" he snarls, his voice distorted horrifically. "I'm leaving Starr, you can leave yers." ## 
+DamianStark:	##800000| 	Starr rakes his claws over the Lasombra's back, wearing Damian's face. ## 
+YaraSherred:	##666666| 	~just outside the door, she jiggles nervously, wanting to go...~ Why aren't we going? Time to go... Go, go, go! ## 
+DamianStark:	##800000| 	"No!" The Damian on the other end of the building rants. "I had him. He was MINE!" ## 
+Kai_Tukov:	##110481| 	Hands in clenched fists, weapon back in his hands. But his concentration is broken by TK getting smashed into wall. He listens to Damian, and retreats out into the night. Life slow, die slow. ## 
+Kai_Tukov:	##110481| 	Something Ciara told him, outlive your enemies, you don't have to meet them nose to nose. ## 
+DamianStark:	##800000| 	D shifts back to his original form, which was, of course, fucked up. "Ladies first!" he prompts, gesturing. "Fuck me, chivalry really IS stupid." ## 
+YaraSherred:	##666666| 	I'm halfway gone already! ~she retorts, out the door already~ Get your asses moving! ## 
+DamianStark:	##800000| 	Damian limp-runs out the door. There is a disturbing, crunchy, splintery sound every time his left foot hits the ground. ## 
+Kai_Tukov:	##110481| 	Kai comes up and under Damian's left arm to help him run. "We're coming, under protest." ## 
+DamianStark:	##800000| 	D scowls... gratefully. How the fuck does he manage that? ## 
+YaraSherred:	##666666| 	As long as you're coming. ~she moves to help by supporting D's right arm ## 
+DamianStark:	##800000| 	On the north side of building seven is a parking lot. A black panel van is parked nearest to building eight. ## 
+Kai_Tukov:	##110481| 	"Hopefully, the pretty boy has called for backup from the Consul..." ## 
+DamianStark:	##800000| 	"Prob'ly not," D rasps, "He don't want a single thing t'do with 'er. Less she notices th'better." ## 
+Kai_Tukov:	##110481| 	Figure it out later. Kai scrutinizes the van for a moment, almost causing the trio to stumble. ## 
+DamianStark:	##800000| 	The van. You've seen it before. The restaurant. The Boiling Crab';s alleyway. ## 
+YaraSherred:	##666666| 	~she keeps a look behind them, making sure that no one's following~ ## 
+Kai_Tukov:	##110481| 	"Of course, now it's here." ## 
+YaraSherred:	##666666| 	Huh? ~she asks, fangs slowly disappearing~ What now? ## 
+DamianStark:	##800000| 	It doesn't appear that anyone is after you. ## 
+DamianStark:	##800000| 	D follows Kai's gaze. "What?" ## 
+Kai_Tukov:	##110481| 	"Nothing, keep going. The cars." Insurance will cover the lost couriered goods. ## 
+YaraSherred:	##666666| 	The cars that are past the fighting? ~she inquires~ ## 
+DamianStark:	##800000| 	(But what of the courier himself? Not clear on how Buddism would view that) ## 
+Kai_Tukov:	##110481| 	((Not good at all. But there is room for assuming the obvious. Care for those close to you first.)) ## 
+DamianStark:	##800000| 	(Good deal. Roll made.) ## 
+DamianStark:	##800000| 	Results held pending discovery of driver's fate.)) ## 
+Kai_Tukov:	##110481| 	Having been turned around, he growls. "The van, I think I can hot wire it." ## 
+Kai_Tukov:	##110481| 	"Yara can probably do it better, though." ## 
+Kai_Tukov:	##110481| 	Hoping that she's picked up something from the auto-vatos. ## 
+DamianStark:	##800000| 	D skids to a stop. "Aren't we in a HURRY?!" ## 
+YaraSherred:	##666666| 	We'll see... I'll happily push the damned thing if we can just get out of here. ~she mutters, hauling at the both of them~ ## 
+DamianStark:	##800000| 	D sighs heavily. "What is it about us? We get together, and EVERYTHING becomes a clusterfuck?" ## 
+Kai_Tukov:	##110481| 	"You're barely legging it, D. We need to get some distance away from this bullshit. " ## 
+DamianStark:	##800000| 	"Yeah, but doesn't this shit take time?" ## 
+DamianStark:	##800000| 	Yara discovers that hotwiring this particular van is going to be hellaciously easy. The douchebags left the keys in it. They did lock the doors, though... with a window rolled down. It's the old Polish security system. ## 
+YaraSherred:	##666666| 	Let's go see, it's a van, they're usually not that bad. C'mon. Let's go. Just a bit more. ~she encourages, only to find, when they get there, that like the door, this is going to be easy mode~ ## 
+Kai_Tukov:	##110481| 	Kai leans D up against the van while Yara inspects, already finding the side door locked. ## 
+DamianStark:	##800000| 	D's jaw drops when she starts the van in precisely four seconds. ## 
+YaraSherred:	##666666| 	~there's a little bit of scrambling, and she gets doors open~ ## 
+DamianStark:	##800000| 	"No fuckin' way. You guys're fuckin' with me..." ## 
+YaraSherred:	##666666| 	All aboard, movin' out! ~she insists, waving the guys in~ ## 
+Kai_Tukov:	##110481| 	Kai eases Damian in, and tugs the door shut, doing a quick take of the interior as Yara starts up the car. "Get us out." ## 
+YaraSherred:	##666666| 	On it. ~she scrambles back to the driver's seat, to drive them out of the hot zone~ ## 
+DamianStark:	##800000| 	Damian flops into the back, exhausted. ## 
+DamianStark:	##800000| 	((I'm exhausted too.)) ## 
+Kai_Tukov:	##110481| 	((How much more do we have?)) ## 
+YaraSherred:	##666666| 	Next time, leave a damned note or something. ~she chides as they start moving~ ## 
+DamianStark:	##800000| 	I have wrap-up info, but if there's something in particular you guys wanna do... ## 
+Kai_Tukov:	##110481| 	Wrap up info can be done now or over email. Don't fall over dead, man. ## 
+YaraSherred:	##666666| 	((Not really. Yara'd offer an easy meal from one of the gang members, but she wouldn't push it on him.)) ## 
+DamianStark:	##800000| 	Ouch. D'll have a hard time refusing that... ## 
+Kai_Tukov:	##110481| 	Kai searches the van while Yara drives to the yard... ## 
+DamianStark:	##800000| 	I think we'll wrap via mail. Sorry it took so long to get through it. And, goddammit, I need to stop letting all the players intersect so easily. ## 
+YaraSherred:	##666666| 	((Email's fine. I'll be ready to run next week, then. You get yourself some sleep, okay? It was good fun.)) ## 
+DamianStark:	##800000| 	I will. Thanks for putting up with me. ## 
+Kai_Tukov:	##110481| 	Was pretty great, you have a good one. Email and all that. ##
